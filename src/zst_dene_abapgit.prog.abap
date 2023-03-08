@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT zst_dene_abapgit.
 
-WRITE: / `hello mfk`.
+WRITE: / `hello mfk and cem`.
